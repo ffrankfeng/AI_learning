@@ -64,5 +64,85 @@ print(matrix)
 numbers = numpy.arange(10,30,5)
 print(numbers)
 
-matrix = numpy.random((2,3))
-print(matrix)
+# matrix = numpy.random((2,3))
+# print(matrix)
+
+from numpy import pi
+#从0-2pi平均取100个值
+array = numpy.linspace(0,2*pi,100)
+print(array)
+
+# 数值运算
+a = numpy.array([20,30,40,50])
+b = numpy.array(4)
+print(a)
+print(b)
+c= a - b
+print(c)
+c = c -1
+print(c)
+b = b ** 2
+print(b)
+print(a<35)
+
+#矩阵乘法
+A = numpy.array([[1,1],[0,1]])
+B = numpy.array([[1,2],[3,4]])
+print(A*B)#对应位置相乘
+print(A.dot(B))#矩阵相乘
+print(numpy.dot(A,B))
+
+#矩阵维度变换
+a = numpy.floor(10*numpy.random.random((3,4)))
+print(a)
+print(a.ravel())
+a.shape = (6,2)#reshape矩阵维度
+print(a)
+print(a.T)#矩阵转置
+
+a = numpy.array([[1,2],[3,4]])
+b = numpy.array([[5,6],[7,8]])
+c= numpy.vstack((a,b))#矩阵拼接
+print(c)
+c= numpy.hstack((a,b))#矩阵拼接
+print(c)
+print(numpy.hsplit(c,2))
+print(numpy.hsplit(c,(2,3)))
+
+#矩阵复制
+#1、引用复制,a,c指向同一内存
+a= numpy.arange(12)
+b = a
+b.shape = 3,4
+print(a.shape)
+print(id(a) == id(b))
+#2、浅拷贝,a,c指向不同内存，但共用同一个值
+c = a.view()
+print(c is a)
+c.shape =2,6
+print(a.shape) #a != c
+c[0,0] =12345
+print(a) #a的值改变
+#3、复制，a,c指向不同内存，不共用同一个值
+c = a.copy()
+print(c is a)
+c[0,0] =11111
+print(a) #a的值不变
+
+data = numpy.sin(numpy.arange(20)).reshape(5,4)
+#求每列最大值的索引
+ind = data.argmax(axis = 0)
+print(ind)
+data_max =data[ind,range(data.shape[1])]
+print(data_max)
+
+a = numpy.arange(0,40 ,10)
+print(a)
+#矩阵扩展：行变成原来的3倍，列变成2倍
+b = numpy.tile(a,(2,3))
+print(b)
+
+a = numpy.array([[4,3,5],[1,2,1]])
+a.sort(axis=1)#按行排序
+print(a)
+print(numpy.argsort(a))#按行从小到大的索引
