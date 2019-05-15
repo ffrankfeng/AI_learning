@@ -1,0 +1,10 @@
+1001,zhangsan,18,1111@qq.com,jiangsu nanjing
+1002,lisi,19,2222@qq.com,jiangsu nanjing
+1003,wangwu,20,3333@qq.com,jiangsu nanjing
+1004,yanliu,12,4444@qq.com,jiangsu nanjing
+1005,xuyuan,22,5555@qq.com,jiangsu nanjing
+1006,fengf,18,6666@qq.com,jiangsu nanjing
+1007,dingyi,19,7777@qq.com,jiangsu nanjing
+1008,haha,15,8888@qq.com,jiangsu nanjing
+1009,ai,23,9999@qq.com,jiangsu nanjing
+1010,deeplearning,22,0000@qq.com,jiangsu nanjing
