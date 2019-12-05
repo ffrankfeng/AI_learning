@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72cf55f3-860f-4f56-add3-44657ff8747c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_pandas/pandas_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_pandas/serise_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/UNRATE.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fandango_score_comparison.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/food_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/data/fire_theft.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/AI_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,27 +24,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3357" column="18" selection-start-line="3357" selection-start-column="18" selection-end-line="3357" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/axes/_axes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13963">
+              <caret line="1295" selection-start-line="1295" selection-end-line="1295" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="100">
-                <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              </first_editor>
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="44" column="65" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -53,15 +72,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>江苏南京</find>
+      <find>turtle</find>
+      <find>assign</find>
+      <find>weight</find>
     </findStrings>
     <replaceStrings>
       <replace>jiangsu nanjing</replace>
+      <replace>t</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -70,29 +94,49 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/resources/person.txt" />
         <option value="$PROJECT_DIR$/1_numpy/numpy_demo.py" />
         <option value="$PROJECT_DIR$/2_pandas/pandas_demo.py" />
         <option value="$PROJECT_DIR$/2_pandas/serise_demo.py" />
         <option value="$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py" />
+        <option value="$PROJECT_DIR$/3_matplotlib/charPic.py" />
+        <option value="$PROJECT_DIR$/3_matplotlib/read.txt" />
+        <option value="$PROJECT_DIR$/3_matplotlib/520.py" />
+        <option value="$PROJECT_DIR$/3_matplotlib/turtle_demo.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-1、.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/test.ipynb" />
+        <option value="$PROJECT_DIR$/3_matplotlib/dw.ipynb" />
+        <option value="$PROJECT_DIR$/asd.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/sa.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/sad.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-1.py" />
+        <option value="$PROJECT_DIR$/tensorflow/sd.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/sxs.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-tensorboard.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb1" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,30 +147,35 @@
             <path>
               <item name="AI_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="3_matplotlib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AI_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tensorflow/data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\tensorflow\data" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\tensorflow" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\dian_pic" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\pic" />
       <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\3_matplotlib" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\dian_pic" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -141,7 +190,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matplotlib_demo">
+  <component name="RunManager" selected="Python.520">
+    <configuration name="520" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_matplotlib/520.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="AI_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +227,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="charPic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_matplotlib/charPic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numpy_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tensorflow-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,21 +287,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_numpy/numpy_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow/tensorflow-1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="turtle_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,36 +309,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_pandas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_matplotlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_pandas/pandas_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_matplotlib/turtle_demo.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="serise_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AI_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_pandas/serise_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -254,10 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.520" />
+        <item itemvalue="Python.tensorflow-1" />
+        <item itemvalue="Python.turtle_demo" />
+        <item itemvalue="Python.charPic" />
         <item itemvalue="Python.matplotlib_demo" />
-        <item itemvalue="Python.serise_demo" />
-        <item itemvalue="Python.pandas_demo" />
-        <item itemvalue="Python.numpy_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -276,126 +348,241 @@
       <workItem from="1558249049221" duration="2322000" />
       <workItem from="1558257768216" duration="930000" />
       <workItem from="1558258834324" duration="4005000" />
+      <workItem from="1558277693827" duration="51000" />
+      <workItem from="1558318153081" duration="2339000" />
+      <workItem from="1558339031277" duration="9662000" />
+      <workItem from="1575434997710" duration="3513000" />
+      <workItem from="1575439503921" duration="132000" />
+      <workItem from="1575439705238" duration="18000" />
+      <workItem from="1575439747651" duration="5899000" />
+      <workItem from="1575445721406" duration="14641000" />
     </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1575435730060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575435730060</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tensorflow2">
+      <created>1575523117298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575523117299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19268000" />
+    <option name="totallyTimeSpent" value="55523000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.20107238" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5011389" side_tool="true" visible="true" weight="0.20107238" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" weight="0.18364611" />
+      <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" visible="true" weight="0.18364611" />
+      <window_info id="Favorites" order="2" sideWeight="0.50141644" side_tool="true" weight="0.20107238" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.37818697" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.37818697" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.48016998" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2719547" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.6147309" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Jupyter" order="14" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" side_tool="true" weight="0.32908848" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <MESSAGE value="tensorflow2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tensorflow2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AI_learning$matplotlib_demo.coverage" NAME="matplotlib_demo Coverage Results" MODIFIED="1558262662691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_matplotlib" />
     <SUITE FILE_PATH="coverage/AI_learning$numpy_demo.coverage" NAME="numpy_demo Coverage Results" MODIFIED="1557888833523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_numpy" />
     <SUITE FILE_PATH="coverage/AI_learning$serise_demo.coverage" NAME="serise_demo Coverage Results" MODIFIED="1558259472711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_pandas" />
     <SUITE FILE_PATH="coverage/AI_learning$pandas_demo.coverage" NAME="pandas_demo Coverage Results" MODIFIED="1557891864885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_pandas" />
+    <SUITE FILE_PATH="coverage/AI_learning$520.coverage" NAME="520 Coverage Results" MODIFIED="1575442254850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_matplotlib" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/person.txt">
+    <entry file="file://$PROJECT_DIR$/resources/pic/res_8.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/res_5.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/res_6.jpg" />
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_numpy/numpy_demo.py">
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/charPic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="141" column="23" lean-forward="true" selection-start-line="141" selection-start-column="23" selection-end-line="141" selection-end-column="23" />
+        <state relative-caret-position="825">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_pandas/pandas_demo.py">
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/read.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        <state relative-caret-position="289">
+          <caret line="994" column="89" selection-start-line="994" selection-start-column="89" selection-end-line="994" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/food_info.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="text-editor" />
+    <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/turtle.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/fandango_score_comparison.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/resources/pic/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/3.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/4.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/5.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/7.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/6.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/res_0.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/res_4.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/res_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/0tmp.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/UNRATE.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-3225" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_pandas/serise_demo.py">
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/test3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/tmp.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/turtle_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="624">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#23#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/dian_pic/res_5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/dian_pic/res_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/dian_pic/test3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/pic/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/pic/0.jpg" />
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/520.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/t1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/3_matplotlib/dw.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/test.ipynb" />
+    <entry file="file://$PROJECT_DIR$/asd.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/sa.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/asdasd.asd" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/Untitled1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/wqe.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/sd.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/sad.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/sxs.ipynb" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="180" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/jupyter/runtime/nbserver-19400-open.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="127" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-tensorboard.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow-1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="100">
-            <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/axes/_axes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="44" column="65" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-13963">
+          <caret line="1295" selection-start-line="1295" selection-end-line="1295" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3357" column="18" selection-start-line="3357" selection-start-column="18" selection-end-line="3357" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
   <component name="masterDetails">
