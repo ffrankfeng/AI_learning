@@ -10,3 +10,8 @@
 - 拿到保研名额，考虑后放弃鹅厂offer，回南京
 - 接触东南cv导师，本科毕设选题
 - 继续学习AI，从tensorflow开始
+
+### 2019-12-5
+- 继续学习tensorflow
+- 知乎[深度炼丹](https://zhuanlan.zhihu.com/c_94953554)专栏的4篇tensorflow笔记，看了前3篇
+- 第三篇有些知识没完全懂，待加强。
