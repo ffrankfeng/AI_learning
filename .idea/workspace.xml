@@ -1,16 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/5_opencv/course17_hough-transform.ipynb" description="#%% md" line="37" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="72cf55f3-860f-4f56-add3-44657ff8747c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/data/fire_theft.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/challeng2_lane_detection_picture.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/challeng2_lane_detection_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/challenge1_clock-drawing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course10_smoothing-images.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course11_edge-detection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course12_erode-and-dilate.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course13_contours.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course14_contour-features.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course15_histograms.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course16_template-matching.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course17_hough-transform.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course2_basic-element-image.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course3_open-camera.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course4_basic-operations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course5_changing-colorspaces.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course6_image-thresholding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course7_image-geometric-transformation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course8_drawing-function.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/course9_image-blending.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/drawing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/6_by_6.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/circle_ring.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/convex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/drawing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra10_padding-and-convolution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra11_image-gradients.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra13_contours-hierarchy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra14_convex-hull.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra1_code-optimization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra2_high-quality-save-and-using-matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra3_trackba.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra6_otsu-thresholding.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra7_warpaffine-warpperspective.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra8_drawing-with-mouse.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/extra9_contrast-brightness.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/hierarchy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/lena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/noisy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/sudoku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/extra/unregular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/face.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/gaussian_noise.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/gradient.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/handwriting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/hist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/j.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/j_noise_in.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/j_noise_out.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/lena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/lena_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/mario.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/mario_coin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/opencv-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/salt_noise.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/school.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/shapes-lines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/shapes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/sudoku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_pictures/lane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_pictures/lane2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_videos/cv2_curve.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_videos/cv2_white_lane.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_videos/cv2_white_lane_green_mark.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_videos/cv2_yellow_lane.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/test_videos/cv2_yellow_lane_green_mark.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_opencv/tsukuba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/99_ideas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/99_ideas/faceCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deepleaning-ai/course1-NeuralWorkandDeepLeang.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/faces/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/faces/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/faces/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/faces/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/faces/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/opencv/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/opencv/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/opencv/3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/AI_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,41 +105,42 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/pyplot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3357" column="18" selection-start-line="3357" selection-start-column="18" selection-end-line="3357" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/axes/_axes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13963">
-              <caret line="1295" selection-start-line="1295" selection-end-line="1295" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="75">
+                <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb">
+        <entry file="file://$PROJECT_DIR$/5_opencv/challeng2_lane_detection_picture.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_opencv/challeng2_lane_detection_video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="149" column="21" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5_opencv/course17_hough-transform.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -71,8 +149,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -82,11 +160,15 @@
       <find>turtle</find>
       <find>assign</find>
       <find>weight</find>
+      <find>cricle</find>
     </findStrings>
     <replaceStrings>
       <replace>jiangsu nanjing</replace>
       <replace>t</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\www\GitHubDesktop\GitHub\AI_learning\deepleaning</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,16 +176,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources/person.txt" />
-        <option value="$PROJECT_DIR$/1_numpy/numpy_demo.py" />
-        <option value="$PROJECT_DIR$/2_pandas/pandas_demo.py" />
-        <option value="$PROJECT_DIR$/2_pandas/serise_demo.py" />
-        <option value="$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py" />
-        <option value="$PROJECT_DIR$/3_matplotlib/charPic.py" />
-        <option value="$PROJECT_DIR$/3_matplotlib/read.txt" />
-        <option value="$PROJECT_DIR$/3_matplotlib/520.py" />
         <option value="$PROJECT_DIR$/3_matplotlib/turtle_demo.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/tensorflow/tensorflow-1、.ipynb" />
         <option value="$PROJECT_DIR$/tensorflow/test.ipynb" />
         <option value="$PROJECT_DIR$/3_matplotlib/dw.ipynb" />
@@ -119,14 +192,49 @@
         <option value="$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb" />
         <option value="$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb" />
         <option value="$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/deepleaning-ai/course1-NeuralWorkandDeepLeang.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/99_ideas/faceCheck.py" />
+        <option value="$PROJECT_DIR$/5_opencv/course2_basic-element-image.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course3_open-camera.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course4_basic-operations.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course5_changing-colorspaces.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course6_image-thresholding.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course7_image-geometric-transformation.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course8_drawing-function.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra1_code-optimization.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra2_high-quality-save-and-using-matplotlib.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra3_trackba.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra6_otsu-thresholding.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra7_warpaffine-warpperspective.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra8_drawing-with-mouse.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/challenge1_clock-drawing.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course9_image-blending.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course10_smoothing-images.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra10_padding-and-convolution.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course11_edge-detection.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course12_erode-and-dilate.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course13_contours.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course14_contour-features.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course15_histograms.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course16_template-matching.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/course15_hough-transform.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra9_contrast-brightness.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra11_image-gradients.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra13_contours-hierarchy.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/extra/extra14_convex-hull.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/challeng2_lane_detection_picture.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/challege2_lane_detection_video.ipynb" />
+        <option value="$PROJECT_DIR$/5_opencv/rew.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="820" />
+    <option name="height" value="560" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -147,7 +255,19 @@
             <path>
               <item name="AI_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="5_opencv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="5_opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="extra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AI_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="5_opencv" type="462c0819:PsiDirectoryNode" />
+              <item name="test_pictures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +279,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tensorflow/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5_opencv" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -167,11 +293,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\5_opencv" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\5_opencv\extra" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\opencv" />
+      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\faces" />
       <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\tensorflow\data" />
-      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\tensorflow" />
-      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\dian_pic" />
-      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources\pic" />
-      <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\www\GitHubDesktop\GitHub\AI_learning\3_matplotlib" />
@@ -190,29 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.520">
-    <configuration name="520" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AI_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_matplotlib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_matplotlib/520.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.rew">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="AI_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,6 +383,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="rew" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_opencv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\www\GitHubDesktop\GitHub\AI_learning\5_opencv\challeng2_lane_detection_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tensorflow-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AI_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -325,11 +448,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.520" />
-        <item itemvalue="Python.tensorflow-1" />
+        <item itemvalue="Python.rew" />
         <item itemvalue="Python.turtle_demo" />
-        <item itemvalue="Python.charPic" />
+        <item itemvalue="Python.tensorflow-1" />
         <item itemvalue="Python.matplotlib_demo" />
+        <item itemvalue="Python.charPic" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +478,23 @@
       <workItem from="1575439503921" duration="132000" />
       <workItem from="1575439705238" duration="18000" />
       <workItem from="1575439747651" duration="5899000" />
-      <workItem from="1575445721406" duration="14641000" />
+      <workItem from="1575445721406" duration="15541000" />
+      <workItem from="1575882515870" duration="81000" />
+      <workItem from="1576130271701" duration="494000" />
+      <workItem from="1576561215911" duration="137000" />
+      <workItem from="1579331780025" duration="4493000" />
+      <workItem from="1579338650495" duration="6391000" />
+      <workItem from="1579346288258" duration="2285000" />
+      <workItem from="1579421717142" duration="3656000" />
+      <workItem from="1579589205963" duration="7870000" />
+      <workItem from="1579610135091" duration="518000" />
+      <workItem from="1579666863575" duration="1884000" />
+      <workItem from="1579671173994" duration="6114000" />
+      <workItem from="1579682587639" duration="15775000" />
+      <workItem from="1579759092811" duration="768000" />
+      <workItem from="1579759882256" duration="50953000" />
+      <workItem from="1580281595727" duration="5235000" />
+      <workItem from="1580287785513" duration="2085000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1575435730060</created>
@@ -371,11 +510,25 @@
       <option name="project" value="LOCAL" />
       <updated>1575523117299</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tensorflow3 mnist">
+      <created>1575535956083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575535956083</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tensorflow3 mnist">
+      <created>1575536103293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575536103293</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55523000" />
+    <option name="totallyTimeSpent" value="165162000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,30 +541,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" weight="0.18364611" />
-      <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" visible="true" weight="0.18364611" />
-      <window_info id="Favorites" order="2" sideWeight="0.50141644" side_tool="true" weight="0.20107238" />
+      <window_info id="Structure" order="0" sideWeight="0.5042493" side_tool="true" weight="0.18364611" />
+      <window_info id="Favorites" order="1" sideWeight="0.50141644" side_tool="true" weight="0.20107238" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4957507" visible="true" weight="0.2124665" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.37818697" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.48016998" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2719547" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.6147309" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.39943343" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.12322946" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.26628897" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3286119" />
-      <window_info anchor="bottom" id="Jupyter" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Jupyter" order="14" weight="0.2592068" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" side_tool="true" weight="0.32908848" />
     </layout>
@@ -422,7 +574,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新" />
     <MESSAGE value="tensorflow2" />
-    <option name="LAST_COMMIT_MESSAGE" value="tensorflow2" />
+    <MESSAGE value="tensorflow3 mnist" />
+    <option name="LAST_COMMIT_MESSAGE" value="tensorflow3 mnist" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AI_learning$matplotlib_demo.coverage" NAME="matplotlib_demo Coverage Results" MODIFIED="1558262662691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_matplotlib" />
@@ -432,64 +585,6 @@
     <SUITE FILE_PATH="coverage/AI_learning$520.coverage" NAME="520 Coverage Results" MODIFIED="1575442254850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_matplotlib" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/pic/res_8.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/res_5.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/res_6.jpg" />
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/matplotlib_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/charPic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/read.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="994" column="89" selection-start-line="994" selection-start-column="89" selection-end-line="994" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/turtle.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/pic/2.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/3.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/4.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/5.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/7.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/6.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/res_0.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/res_4.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/res_1.jpg" />
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/0tmp.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/test2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/test3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/tmp.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/turtle_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-          <folding>
-            <element signature="e#23#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/dian_pic/res_5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -499,90 +594,187 @@
     <entry file="file://$PROJECT_DIR$/resources/dian_pic/test3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/pic/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/pic/0.jpg" />
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/520.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="67" column="15" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/resources/fandango_score_comparison.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/t1.ipynb" />
-    <entry file="file://$PROJECT_DIR$/3_matplotlib/dw.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/test.ipynb" />
-    <entry file="file://$PROJECT_DIR$/asd.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/sa.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/asdasd.asd" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/Untitled.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/Untitled1.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/wqe.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/sd.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/sad.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/sxs.ipynb" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="180" selection-start-line="180" selection-end-line="180" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/jupyter/runtime/nbserver-19400-open.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="127" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-tensorboard.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow-1.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-2-tensorboard.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/deepleaning-ai/course1-NeuralWorkandDeepLeang.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/99_ideas/faceCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/opencv/1_gray.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/output.avi">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course3_open-camera.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course2_basic-element-image.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course5_changing-colorspaces.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-921442237/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10158" column="66" selection-start-line="10158" selection-start-column="66" selection-end-line="10158" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/img_bmp.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra1_code-optimization.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/noisy.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course4_basic-operations.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra7_warpaffine-warpperspective.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/challenge1_clock-drawing.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra8_drawing-with-mouse.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course9_image-blending.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra10_padding-and-convolution.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course8_drawing-function.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course7_image-geometric-transformation.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra3_trackba.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra2_high-quality-save-and-using-matplotlib.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://D:/PythonIDE/Anaconda3/envs/cv/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="149" column="14" lean-forward="true" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course10_smoothing-images.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/j_noise_in.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course13_contours.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course14_contour-features.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course15_histograms.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course12_erode-and-dilate.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course11_edge-detection.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course16_template-matching.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/shapes.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra9_contrast-brightness.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra11_image-gradients.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course6_image-thresholding.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra13_contours-hierarchy.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13963">
-          <caret line="1295" selection-start-line="1295" selection-end-line="1295" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra6_otsu-thresholding.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://D:/PythonIDE/anaconda3/Anaconda/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3357" column="18" selection-start-line="3357" selection-start-column="18" selection-end-line="3357" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/5_opencv/extra/extra14_convex-hull.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-3.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow-4.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/course17_hough-transform.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/challege2_lane_detection_video.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/challeng2_lane_detection_picture.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_opencv/challeng2_lane_detection_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="149" column="21" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

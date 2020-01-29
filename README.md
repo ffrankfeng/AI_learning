@@ -15,3 +15,7 @@
 - 继续学习tensorflow
 - 知乎[深度炼丹](https://zhuanlan.zhihu.com/c_94953554)专栏的4篇tensorflow笔记，看了前3篇
 - 第三篇有些知识没完全懂，待加强。
+
+### 2020-1-29
+- 学完了[codec.wang](http://codec.wang/opencv-python/#more)编写的常用opencv教程。
+- 刚刚入门，继续加油
